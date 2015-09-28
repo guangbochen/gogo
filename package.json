@@ -1,0 +1,35 @@
+{
+  "name": "gogo",
+  "version": "1.0.0",
+  "description": "##### FEATURES: *   Authentication *   Admin dashboard *   Admin CMS *   API Authentication using oAuth2  *   Mail *   Filesystem / Cloud Storage *   Queues *   Pagination",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guangbochen/gogo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guangbochen/gogo/issues"
+  },
+  "homepage": "https://github.com/guangbochen/gogo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "del": "^2.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-order": "^1.1.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "main-bower-files": "^2.9.0"
+  }
+}

@@ -1,3 +1,6 @@
 .DS_Store
-gocms
 gogo
+bower_components
+node_modules
+static/css/vendor.css
+static/js/vendor.js
