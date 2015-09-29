@@ -1,4 +1,4 @@
-###GOGO is a GO web application build upon golang and beego framework to help people to bootstrap their website with some awesome features in a minutes
+####GOGO is a GO web application build upon golang and beego framework to help people to bootstrap their website with some awesome features in a minutes
 
 ##### FEATURES:
 *   Authentication
@@ -17,4 +17,4 @@
 *   Editorconfig(coding style formatting) .editorconfig
 
 
-<p>The project is still under development stage, so the project structure or configurations may change upon the analysis from development experiences and mistakes that we have learned.</p>
+<small>The project is still under development, so its structure and configurations may change upon the development experiences and mistakes that we have learned.</small>

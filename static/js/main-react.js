@@ -10,5 +10,4 @@
 
     var mountNode = document.getElementById('react');
     React.render(React.createElement(HelloMessage, { name: 'React' }), mountNode);
-
 })();

@@ -4,21 +4,29 @@
   "homepage": "https://github.com/guangbochen/gogo",
   "authors": [
     "Guangbo Chen <steven.guangbo.chen@gmail.com>"
-  ],
-  "moduleType": [
-    "globals"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "~4.0.0",
-    "react": "~0.13.3",
-    "normalize-css": "normalize.css#~3.0.3"
-  }
+    ],
+    "moduleType": [
+      "globals"
+    ],
+    "license": "MIT",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "bootstrap": "~4.0.0",
+      "react": "~0.13.3",
+      "normalize-css": "normalize.css#~3.0.3"
+    },
+    "overrides": {
+      "bootstrap": {
+        "main": [
+          "dist/css/bootstrap.min.css",
+          "dist/js/bootstrap.js"
+        ]
+      }
+    }
 }

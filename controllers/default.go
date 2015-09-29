@@ -11,5 +11,5 @@ type MainController struct {
 func (c *MainController) Get() {
 	c.Data["Website"] = "https://github.com/guangbochen/gogo"
 	c.Data["Email"] = "gc.guangbo@gmail.com"
-	c.TplNames = "index.tpl"
+	c.TplNames = "home/home.tpl"
 }

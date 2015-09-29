@@ -1,5 +1,4 @@
 {{ template "layout.tpl" . }}
-
 {{ define "css" }}
 {{ end}}
 

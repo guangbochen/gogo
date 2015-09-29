@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/guangbochen/gogo#readme",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-sourcemaps": "^1.6.0"
   },
   "dependencies": {
     "del": "^2.0.2",
